@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NuSho</string>
+    <string name="textbutton">Sing in</string>
+    <string name="text2"></string>
+    <string name="login">Лоджгин</string>
+    <string name="pass">Паджроль</string>
+</resources>
